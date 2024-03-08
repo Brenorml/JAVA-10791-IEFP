@@ -1,0 +1,3 @@
+Item      |Descricao                |Quantidade          |Preco     |Total     
+1         |wefewf                   |1                   |324.00    |324.00    
+2         |wef                      |3                   |34.00     |102.00    

@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\Java-Workspaces\UFCD10791\.metadata\.plugins\org.eclipse.jdt.core
+158682399.index
+3907192511.index
+1865797976.index
+222444421.index
